@@ -56,7 +56,7 @@ synapticwebweaver/
 
 ```bash
 # Clone this repo faster than I can say "I am Iron Man"
-git clone https://github.com/yourusername/synapticwebweaver.git
+git clone https://github.com/Omdeepb69/synapticwebweaver.git
 
 # Slide into the directory
 cd synapticwebweaver
@@ -236,4 +236,4 @@ MIT License - basically, go off king/queen, just give credit where it's due.
 
 "Sometimes you gotta run before you can walk." This AI embodies that energy. Is it perfect? No. Is it trying its best? Absolutely. Will it eventually become Ultron? Let's hope not.
 
-Created with vibes and caffeine by [Your Name], who is definitely not a billionaire, playboy, philanthropist... yet.
+Created with vibes and caffeine by Omdeep ofc, who is definitely not a billionaire, playboy, philanthropist... yet.
